@@ -6,7 +6,7 @@ categories: etc
 
 ### 개요
 1. WSL설치
-*  [https://kjglehs.github.io/etc/2019/01/13/install-wsl.html](http://)
+* [https://kjglehs.github.io/etc/2019/01/13/install-wsl.html](https://kjglehs.github.io/etc/2019/01/13/install-wsl.html)
 2. jekyll 설치, 블로그 생성
 3. admin 설치 
 4. 테마 설치
@@ -44,8 +44,8 @@ categories: etc
 4. http://localhost:4000/admin
 
 ### 테마 적용
-1. 테마 다운로드([http://jekyllthemes.org/](http://))
-* 적용 테마([http://lanyon.getpoole.com/](http://))
+1. 테마 다운로드([http://jekyllthemes.org/](http://jekyllthemes.org/))
+* 적용 테마([http://lanyon.getpoole.com/](http://lanyon.getpoole.com/))
 2. 프로젝트 소스에 테마 관련 내용 복사
 * _config.yml(설정파일) 수정
 * _includes폴더, _layouts폴더, public 폴더 등 복사 
@@ -62,4 +62,4 @@ categories: etc
 7. git push origin master
 
 댓글 추가
-[https://devmjun.github.io/archive/addComments](http://)
+[https://devmjun.github.io/archive/addComments](https://devmjun.github.io/archive/addComments)
