@@ -21,8 +21,9 @@ categories: etc
 *  sudo apt-get install ruby2.3 ruby2.3-dev build-essential dh-autoreconf
 4. 루비 젬들 업데이트  
 * sudo gem update
-5. jekyll 설치
+5. jekyll, bundler 설치
 * sudo gem install jekyll bundler
+* bundler : 필요한 정확한 gem과 버전을 추적하고 설치하여 루비 프로젝트를 위한 일관된 환경을 제공하는 도구
 6. 설치 확인
 * jekyll -v
 7. bundler 와 루비 젬의 경로를 설정
@@ -36,6 +37,7 @@ categories: etc
 * localhost:4000
 
 ### Admin설치
+* **그냥 에디터로 작성하는게 나아보임**
 1. 추가한 프로젝트 Gemfile에 아래 내용 추가
 * gem 'jekyll-admin', group: :jekyll_plugins
 2. 설치
