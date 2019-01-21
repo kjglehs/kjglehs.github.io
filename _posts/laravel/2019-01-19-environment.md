@@ -1,5 +1,5 @@
 ---
-title: 개발 환경 구축
+title: 1. 개발 환경 구축
 layout: post
 categories: laravel
 ---
