@@ -1,5 +1,5 @@
 ---
-title: WSL설치
+title: '[Etc] WSL설치'
 layout: post
 categories: etc
 ---

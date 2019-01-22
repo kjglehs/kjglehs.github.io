@@ -1,5 +1,5 @@
 ---
-title: 9. 패키지 설치
+title: '[Laravel] 9. 패키지 설치'
 layout: post
 categories: laravel
 ---

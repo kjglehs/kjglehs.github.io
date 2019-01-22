@@ -1,6 +1,6 @@
 ---
 layout: page
-title: laravel
+title: Laravel
 ---
 
 <div class="posts">

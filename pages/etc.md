@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ETC
+title: Etc
 ---
 
 <div class="posts">

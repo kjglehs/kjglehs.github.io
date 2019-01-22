@@ -1,5 +1,5 @@
 ---
-title: 5. 디렉토리 구성
+title: '[Laravel] 5. 디렉토리 구성'
 layout: post
 categories: laravel
 ---

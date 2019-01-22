@@ -1,5 +1,5 @@
 ---
-title: 7. 데이터 바인딩
+title: '[Laravel] 7. 데이터 바인딩'
 layout: post
 categories: laravel
 ---

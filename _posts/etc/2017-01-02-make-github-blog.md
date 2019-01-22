@@ -1,12 +1,12 @@
 ---
-title: Windows에서 github 블로그 만들기
+title: '[Etc] Windows에서 github 블로그 만들기'
 layout: post
 categories: etc
 ---
 
 ### 개요
 1. WSL설치
-* [https://kjglehs.github.io/etc/2019/01/13/install-wsl.html](https://kjglehs.github.io/etc/2019/01/13/install-wsl.html)
+* [https://kjglehs.github.io/etc/2018/01/01/install-wsl.html](https://kjglehs.github.io/etc/2019/01/13/install-wsl.html)
 2. jekyll 설치, 블로그 생성
 3. admin 설치 
 4. 테마 설치

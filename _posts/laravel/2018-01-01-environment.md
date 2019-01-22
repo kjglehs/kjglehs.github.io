@@ -1,8 +1,10 @@
 ---
-title: 1. 개발 환경 구축
+title: '[Laravel] 1. 개발 환경 구축'
 layout: post
 categories: laravel
 ---
+
+**[https://laravel.kr/docs/](https://laravel.kr/docs/)**
 
 ### 라라벨5 요구사항
 * PHP >= 5.5.9
