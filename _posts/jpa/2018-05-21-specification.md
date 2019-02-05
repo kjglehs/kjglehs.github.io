@@ -57,6 +57,15 @@ public class CommentSpecs {
 }
 ```
 
+- 람다
+```java
+public class CommentSpecs {
+    public static Specification<Comment> isBest() {
+        return (root, criteriaQuery, criteriaBuilder) -> criteriaBuilder.isTrue(root.get(Comment_.best));
+    }
+}
+```
+
 ```java
 @Test
 public void getComment() {
