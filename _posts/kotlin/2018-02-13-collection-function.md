@@ -51,3 +51,17 @@ people.flatMap { it.name.toList()}
 
 ### flatten
 > flatMap 과 같으나 return 할 내용이 없을때
+
+### asSequence
+> 함수 연쇄 호출 시 성능 향상
+
+```kotlin
+people.map(People::name).filter { it.startWith("A") }
+```
+- map의 결과를 임시 list 에 저장하고 filter 의 결과를 최종 list 에 저장한다
+
+- asSequense 사용하면 중간 결과를 저장하는 컬렉션이 생기지 않는다.
+```kotlin
+people.asSequnce().map(Person::name).filter { it.startWith("A") }.toList()
+```
+
