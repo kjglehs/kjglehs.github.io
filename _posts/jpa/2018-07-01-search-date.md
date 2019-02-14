@@ -8,7 +8,7 @@ categories: jpa
 ```java
 DateTimeFormatter fmt = DateTimeFormat.forPattern("yyyy-MM-dd hh:mm:ss");
 DateTime dt = fmt.parseDateTime("2016-08-01 23:32:22")
-TimeStamp ts = new TimeStamp(dt.getMillis());
+Timestamp ts = new Timestamp(dt.getMillis());
 
 //datetime(joda) to date
 Date date = dt.toDate()
