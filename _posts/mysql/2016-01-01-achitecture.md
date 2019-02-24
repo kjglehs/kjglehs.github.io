@@ -4,6 +4,9 @@ layout: post
 categories: mysql
 ---
 
+- sample download
+**[https://launchpad.net/test-db](https://launchpad.net/test-db)**
+
 ### MySql 구조
 > MySql 엔진 + 스토리지 엔진
 
