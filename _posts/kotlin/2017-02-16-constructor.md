@@ -17,7 +17,7 @@ class MyClass1 {}
 
 class MyClass2() {}
 
-class MyClass3 contructor() {}
+class MyClass3 constructor() {}
 ```
 
 ### 매개변수가 있는 주 생성자
