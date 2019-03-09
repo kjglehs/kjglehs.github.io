@@ -1,5 +1,5 @@
 ---
-title: '[Http] 저장소 만들기'
+title: '[Git] 저장소 만들기'
 layout: post
 categories: git
 ---
